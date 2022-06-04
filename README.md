@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 Hi, I'm [Vedant Solanki](http://vedantsolanki.com/), a passionate software engineer from India with 5+ years of experience in creating web applications.
 
 
