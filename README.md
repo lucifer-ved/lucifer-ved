@@ -26,7 +26,7 @@ Hi, I'm [Vedant Solanki](http://vedantsolanki.com/), a passionate software engin
 
 
 ### When i'm not coding:
-I like to [click](https://photographsbyved.com) ! <img alt="GIF" src="https://media.giphy.com/media/mbjO0Bx3siLE4/giphy.gif" width="30" height="20" />
+I like to [click](https://photographsbyved.netlify.app) ! <img alt="GIF" src="https://media.giphy.com/media/mbjO0Bx3siLE4/giphy.gif" width="30" height="20" />
 
  💬 Ask me about anything and I'd be happy to help<br/>
  
