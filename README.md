@@ -25,8 +25,10 @@ Hi, I'm [Vedant Solanki](http://vedantsolanki.com/), a passionate software engin
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
+<!---
 ### When i'm not coding:
 I like to [click](https://photographsbyved.netlify.app) ! <img alt="GIF" src="https://media.giphy.com/media/mbjO0Bx3siLE4/giphy.gif" width="30" height="20" />
+-->
 
  💬 Ask me about anything and I'd be happy to help<br/>
  
